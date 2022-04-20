@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'English Grammar',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Ayuda en el aprendizaje de la gramática básica del idioma inglés.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'EG1001 App',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Aplicación para practicar lo estudiado en esta página.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '1001 Drops S.C.',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Busca la democratización del conocimiento a través de proyectos para difundir la Filosofía, la Ciencia y la Tecnología.
       </>
     ),
   },

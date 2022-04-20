@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: '1001 Drops', // Usually your GitHub org/user name.
-  projectName: 'docugrammar', // Usually your repo name.
+  organizationName: 'matahj', // Usually your GitHub org/user name.
+  projectName: 'docuGrammar', // Usually your repo name.
 
   presets: [
     [
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'DocuGrammar',
+        title: 'Inicio',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -53,12 +53,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Apunes',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Poster', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/matahj',
+            label: '1001 Drops',
             position: 'right',
           },
         ],
@@ -67,46 +67,42 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentos',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Apuntes',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Poster',
+                to: '/blog',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '1001 Drops',
+                href: 'https://github.com/matahj/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/matahj',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Extras',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Aplicación',
+                href: 'https://play.google.com/store',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <span class="nombre">1001 Drops, S.C.</span> Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
