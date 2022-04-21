@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'English Grammar',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/file-earmark-font.svg').default,
     description: (
       <>
         Ayuda en el aprendizaje de la gramática básica del idioma inglés.
