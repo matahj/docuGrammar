@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'EG1001 App',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/app-indicator.svg').default,
     description: (
       <>
         Aplicación para practicar lo estudiado en esta página.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '1001 Drops S.C.',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/droplet-half.svg').default,
     description: (
       <>
         Busca la democratización del conocimiento a través de proyectos para difundir la Filosofía, la Ciencia y la Tecnología.

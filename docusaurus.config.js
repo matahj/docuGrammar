@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'English Grammar',
-  tagline: 'Apuntes y ejercicios para dominar la gramática básica del idioma Inglés.',
+  tagline: 'Apuntes y ejercicios para estudiar la gramática básica del idioma Inglés.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <span class="nombre">1001 Drops, S.C.</span> Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <span class="nombre">1001 Drops, S.C.</span>`,
       },
       prism: {
         theme: lightCodeTheme,
