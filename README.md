@@ -1,12 +1,16 @@
 # docuGrammar
 
-Apuntes y ejercicios para dominar la gramática básica del idioma Inglés.
+Apuntes y ejercicios para estudiar la gramática básica del idioma Inglés.
+
+[https://docu-grammar.vercel.app/](https://docu-grammar.vercel.app/)
 
 ### Tecnologías
 
 * [Docusaurus 2](https://docusaurus.io/)
+* Markdown
+* React
 
-### Instalación de dependencias
+### Instalación
 
 ```
 npm install
@@ -18,28 +22,3 @@ npm install
 npm start
 ```
 
-### Actuaizar los siguiente spuntos
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

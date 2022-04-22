@@ -85,3 +85,11 @@
 .nombre {
   color: #bf5eff;
 }
+
+time{
+  display: none;
+}
+
+.theme-edit-this-page{
+  display: none;
+}
