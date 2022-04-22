@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'English Grammar',
   tagline: 'Apuntes y ejercicios para estudiar la gramática básica del idioma Inglés.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docu-grammar.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,14 +24,14 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/matahj',
         },
         blog: {
           blogSidebarTitle: 'Poster',
           showReadingTime: false,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/matahj',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -46,7 +46,7 @@ const config = {
       navbar: {
         title: 'Inicio',
         logo: {
-          alt: 'My Site Logo',
+          alt: '1001 Drops logo',
           src: 'img/logo.svg',
         },
         items: [

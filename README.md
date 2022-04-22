@@ -10,7 +10,7 @@ Apuntes y ejercicios para estudiar la gramática básica del idioma Inglés.
 * Markdown
 * React
 
-### Instalación
+### Instalación de dependencias
 
 ```
 npm install
@@ -21,4 +21,3 @@ npm install
 ```
 npm start
 ```
-
