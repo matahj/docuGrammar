@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introducción
+# Introduction
 
 Se presentan los elementos básicos de la gramática del idioma Inglés y algunos ejemplos. 
 

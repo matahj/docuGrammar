@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'English Grammar',
+    title: 'English Grammar in Short',
     Svg: require('@site/static/img/file-earmark-font.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'EG1001 App',
+    title: 'EGiS-1001 App',
     Svg: require('@site/static/img/app-indicator.svg').default,
     description: (
       <>

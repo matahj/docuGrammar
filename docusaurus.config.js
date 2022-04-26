@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'English Grammar',
+  title: 'English Grammar in Short',
   tagline: 'Apuntes y ejercicios para estudiar la gramática básica del idioma Inglés.',
   url: 'https://docu-grammar.vercel.app/',
   baseUrl: '/',
