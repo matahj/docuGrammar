@@ -27,7 +27,7 @@ const config = {
           editUrl: 'https://github.com/matahj',
         },
         blog: {
-          blogSidebarTitle: 'Poster',
+          blogSidebarTitle: 'Póster',
           showReadingTime: false,
           // Please change this to your repo.
           editUrl:
@@ -56,7 +56,7 @@ const config = {
             position: 'left',
             label: 'Apunes',
           },
-          {to: '/blog', label: 'Poster', position: 'left'},
+          {to: '/blog', label: 'Póster', position: 'left'},
           {
             href: 'https://github.com/matahj',
             label: '1001 Drops',
@@ -75,7 +75,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Poster',
+                label: 'Póster',
                 to: '/blog',
               },
             ],

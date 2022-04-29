@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Verb Tenses
 
-El **tiempo verbal** de una oración depende de la **forma del verbo**, los tres tiempos principales son:
+El **tiempo verbal** de una oración depende de la **forma del verbo** y los **auxiliares** que lo acompañen, los tres tiempos principales son:
 
 * **Present**. Presente. 
 * **Past**. Pasado.   

@@ -75,11 +75,12 @@ verb: *is*  (verbo "be" para el singular de la tercera persona)
 
 Se usa como **objeto** del verbo, sustituye el sustantivo (**noun**) que recibe la acción del verbo:
 
-**Lisa**, I *told* **you** to tidy your bed!
+**Pedro**, I *told* **you** to tidy your bed!
 
-noun: **Lisa**  
+noun: **Pedro**  
 object pronoun: **you**  
 verb: *told* (pasado de tell)  
+personal pronoun: I  
 
 
 Pick up **your toys** and *put* **them** *away*.
@@ -111,7 +112,7 @@ verb: *made*  (make en pasado)
 Our **cat** *washes* **itself** after each meal.  
 
 noun: **cat**  
-reflexive pronoun: **itself**  (el mismo | el solo)  
+reflexive pronoun: **itself**  (sí mismo | solo)  
 verb: *washes* (wash para tersera persona)  
 
 
@@ -119,23 +120,24 @@ verb: *washes* (wash para tersera persona)
 
 Se usan en pregnuntas para indicar el sustantivo (**noun**) sobre el cual se pregunta.
 
-**Who** (quién | quiénes):  
+**Who**:  
 * **Who** is he talking to?  
 * **Who** are those people?  
     
-**Whom** (quién | quiénes):  
+**Whom**:  
 * **Whom** is he talking to?
 * **Whom** are you playing with?  
 
-**Which** (cuál | cuáles):  
-* **Which** of these bags is yours?  
-* **Which** do you prefer?  
+**Which**:  
+* **Which** do you prefer? 
+* **Which** fruits do you prefer?  
+ 
 
-**Whose** (de quién | de quiénes):  
+**Whose**:  
 * **Whose** is this umbrella?  
 * **Whose** are these gloves?  
 
-**What** (qué):  
+**What**:  
 * **What** *is* your dog's name?  
 * **What** are you talking about?  
 * **What** *is* the time?  
@@ -145,21 +147,21 @@ Se usan en pregnuntas para indicar el sustantivo (**noun**) sobre el cual se pre
 
 Se usan para mostrar "nouns", para indicar si son uno o varios y si están próximos o alejados.
 
-**This** singular y próximo.  
+**This**: singular y próximo.  
 * **This** is my cellphone.  
 
-**These** plural y próximo.  
+**These**: plural y próximo.  
 * **These** are your keys.  
 
-**That** singlular y alejado.  
+**That**: singlular y alejado.  
 * **That** is a mountain.  
 
-**Those** plural y alejado.  
+**Those**: plural y alejado.  
 * **Those** are panthers.  
 
 ## Adjectives
 
-Los adjetivos describen un sustantivo (**noun**), por lo general se escriben inmediatamente antes del sustantivo, pero también puede aparecer en el complemento de la oración.
+Los adjetivos describen un sustantivo (**noun**), por lo general se escriben inmediatamente antes del sustantivo, pero también puede aparecer despúes en el complemento de la oración.
 
 * An **old** *building*.
 
@@ -251,7 +253,7 @@ Un verbo en infinitivo **no está conjugado**, por lo general lo precede la pala
 
 Las otras cuatro formas de un verbo son:
 
-* **Third person singular** form. Se usa en frases afirmativas que involucran **she**, **he**, **it**, **one**. A los verbos regulares se les agrega **-s** o **-es**.
+* **Third person singular** form. Se usa en frases afirmativas que involucran **she**, **he**, **it**, **one**. A los *verbos regulares* se les agrega **-s** o **-es**.
 
     she read**s**  
     he watch**es**  
@@ -263,13 +265,37 @@ Las otras cuatro formas de un verbo son:
 
     come - com**ing**  
     draw - draw**ing**  
-    wash - wash**ing**  
+    wash - wash**ing**
+
+    Verbos cortos, de una silaba, con terminación b, d, g, m, p, t, con una sola vocal antes de la última letra, se repite la última letra:
+    
+    get - ge**tt**ing  
+    stop - sto**pp**ing  
+    swim - swi**mm**ing  
+
 
 * **Past** form and **Past participle** form. Se usa en frases conjugadas en pasado. A los verbos regulares se les agrega **-ed**.
 
-    shop - shopp**ed**  
+    pull - pull**ed**
     stack - stack**ed**  
-    play - play**ed**  
+    play - play**ed**
+
+    Si temina en **-e** se agrega **-d**:  
+
+    agree - agree**d**  
+    die - die**d**  
+
+    Verbos cortos, de una silaba, con terminación b, d, m, n, p, t, con una sola vocal antes de la última letra, se repite la última letra:
+
+    shop - sho**pp**ed  
+    fan - fa**nn**ed  
+
+    Si termina con **y** se cambia **-y** por **-i** antes de agregar **-ed**:
+
+    carry - carr**ied**  
+    fry - fr**ied**  
+    try - tr**ied**  
+
 
 
 ### Irregular verbs
@@ -281,8 +307,10 @@ Los verbos irregulares no respetan las reglas para su **Past form** and **Past p
 | get       | got   | got   |  
 | give      | gave  | given |  
 | hide      | hid   | hidden|  
-| bet       | bet   | bet   |  
 | steal     | stole | stolen|  
+| bet       | bet   | bet   |  
+| cut       | cut   | cut   |
+
 
 
 

@@ -63,7 +63,7 @@ Además pueden ser positivas o negativas:
 
 * **Positive sentence**. Una oración positiva indica que algo es como es, afirmativo o positivo.
 
-    The fridge is empty.
+    The house is empty.
 
 * **Negative sentence**. Una oración negativa indica que algo NO es verdadero o que es negativo. Contiene una palabra negativa como: **not**, **never**, **no**, **no one**, **nobody**, **none** o un verbo negativo como **isn't**, **can't** o **won't**.
 
@@ -84,5 +84,4 @@ En particular hay dos tipos de preguntas:
     **which** color do you prefer?
 
     **who** told you that?
-
 

@@ -1,6 +1,6 @@
 ---
 slug: posterpdf
-title: Poster PDF
+title: Póster PDF
 authors: reyna
 # tags: [hello, docusaurus]
 ---
