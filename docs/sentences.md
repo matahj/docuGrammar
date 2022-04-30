@@ -24,13 +24,13 @@ Hannah || is reading || her book.
 
 I || am writing || a story.
 
-## Direct Object and Indirect Object.
+## Indirect Object and Direct Object.
 
-Es posible que una oración tenga dos objetos, el directo y el indirecto:
+Es posible que una oración tenga dos objetos, el indirecto y el directo:
 
-* **Diect object**. Recibe la acción del verbo.
+* **Indirect object**. Indica para quién se realiza la acción.  
 
-* **Indirect object**. Indica para quién se realiza la acción.
+* **Diect object**. Recibe la acción del verbo.  
 
 **subject** || **verb** || **indirect object** || **direct object**
 
@@ -49,7 +49,8 @@ Hay cuatro tipos de oraciones:
 
 * **Interrogative sentence**. Una oración interrogativa hace una pregunta.
 
-    What is your name?
+    Is Anna in your class?  
+    What is your name?  
 
 * **Exclamatory sentence**. Una oración exclamatoria expresa una emoción fuerte.
     
@@ -65,7 +66,7 @@ Además pueden ser positivas o negativas:
 
     The house is empty.
 
-* **Negative sentence**. Una oración negativa indica que algo NO es verdadero o que es negativo. Contiene una palabra negativa como: **not**, **never**, **no**, **no one**, **nobody**, **none** o un verbo negativo como **isn't**, **can't** o **won't**.
+* **Negative sentence**. Una oración negativa indica que algo no es verdadero o que es negativo. Contiene una palabra negativa como: **not**, **never**, **no**, **no one**, **nobody**, **none** o un verbo negativo como **isn't**, **can't** o **won't**.
 
     There is **no one** in the house.
 
@@ -73,15 +74,12 @@ En particular hay dos tipos de preguntas:
 
 * **Yes or not questions**. Son preguntas cuya respuesta es **sí** o **no**.
 
-    Is it raining?
-
-    Can you swim?
+    Is it raining?  
+    Can you swim?  
 
 * **Wh- questions**. Son preguntas que requieren de una respuesta elaborada. Incluyen las palabras **what** (qué), **which** (cuál), **who** (quién), **whom** (quién), **how** (cómo), **when** (cuándo), **where** (dónde).
 
-    **what** would you like for diner?
-    
-    **which** color do you prefer?
-
-    **who** told you that?
+    **what** would you like for diner?  
+    **which** color do you prefer?  
+    **who** told you that?  
 

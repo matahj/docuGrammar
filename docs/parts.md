@@ -21,7 +21,7 @@ Pueden ser **singulares** o **plurales**:
 
 * **Plural nouns**. Se finalizan con **-s** o **-es**:
 
-    * Por lo general se agrega **-s**: orange - orange**s**, car - car**s**, flower-flower**s**, chef - chef**s**, giraffe - giraffe**s**.
+    * Por lo general se le agrega **-s**: orange - orange**s**, car - car**s**, flower-flower**s**, chef - chef**s**, giraffe - giraffe**s**.
 
     * Si termina en **ch**, **sh**, **s**, **ss** o **x** se agrega **-es**: branch - branch**es**, dish - dish**es**, bus - bus**es**, glass - glass**es**, box - box**es**.
 
@@ -43,7 +43,7 @@ Pueden ser **singulares** o **plurales**:
 
 Los pronombres **pueden sustituir** a los sustantivos o nombres (**nouns**) en una oración.
 
-### Personal Pronouns
+### Subject Pronouns
 
 * First person singular (yo): **I**.
 * Second person singular (tú): **you**.
@@ -51,15 +51,15 @@ Los pronombres **pueden sustituir** a los sustantivos o nombres (**nouns**) en u
 
 * First person plural (nosotros): **we**.
 * Second person plural (ustedes): **you**.
-* Third person plural (ellos): **they**.
+* Third person plural (ellos, ellas, esos): **they**.
 
-Se usa como **sujeto** del verbo, sustituye el sustantivo (**noun**) que desarrolla la acción del verbo:
+Pueden sustituir al *sujeto*, el sustantivo (***noun***) que desarrolla la acción del **verbo**:
 
-This is **my sister**. **She** *is* a programmer.
+This is *my sister*. ***She*** **is** a programmer.
 
-noun: **my sister**  
-personal pronoun: **she**  
-verb: *is*  (verbo "be" para el singular de la tercera persona)
+noun: *my sister*  
+personal pronoun: ***she***  
+verb: **is**  
 
 
 
@@ -73,52 +73,65 @@ verb: *is*  (verbo "be" para el singular de la tercera persona)
 * Second person plural: **you**.
 * Third person plural: **them**.
 
-Se usa como **objeto** del verbo, sustituye el sustantivo (**noun**) que recibe la acción del verbo:
+Puede sustituir al *objeto*, el sustantivo (***noun***) que recibe la acción del **verbo**:
 
-**Pedro**, I *told* **you** to tidy your bed!
+*Pedro*, I **told** ***you*** to tidy your bed!
 
-noun: **Pedro**  
-object pronoun: **you**  
-verb: *told* (pasado de tell)  
-personal pronoun: I  
-
-
-Pick up **your toys** and *put* **them** *away*.
+noun: *Pedro*  
+object pronoun: ***you***  
+verb: **told** (pasado de tell)  
   
-noun: **your toys**  
-object pronoun: **them**  
-verb: *put away*  (phrasal verb)
+
+Pick up *your toys* and **put** ***them*** **away**.
+  
+noun: *your toys*  
+object pronoun: ***them***  
+verb: **put away**  (phrasal verb)
 
 
 ### Reflexive Pronouns
 
-* First person singular (I, me): **myself**.
-* Second person singular (you): **yourself**.
-* Third person singular (he, him | she, her | it): **himself**, **herself**, **itself**.
+* First person singular (I - me): **myself**.
+* Second person singular (you - you): **yourself**.
+* Third person singular (he - him | she - her | it - it): **himself**, **herself**, **itself**.
 
-* First person plural (we, us): **ourselves**.
-* Second person plural (you): **youselves**.
-* Third person plural (they, them): **themselves**.
-
-Se usa como **sujeto** del verbo, sustituye el sustantivo (**noun**) que desarrolla la acción del verbo, pero cuando se refiere a sí mismo:
-
-**I** *made* this cake **myself**.  
-
-noun: **I**  
-reflexive pronoun: **myself**  (yo mismo | yo solo)  
-verb: *made*  (make en pasado)
+* First person plural (we - us): **ourselves**.
+* Second person plural (you - you): **youselves**.
+* Third person plural (they - them): **themselves**.
 
 
-Our **cat** *washes* **itself** after each meal.  
+Se usa para indicar que el *sujeto* y el *objeto* del **verbo** son el mismo; cuando el sustantivo (***noun***) desarrolla y recibe la acción; cuando se refiere a sí mismo:
 
-noun: **cat**  
-reflexive pronoun: **itself**  (sí mismo | solo)  
-verb: *washes* (wash para tersera persona)  
+*I* **made** this cake ***myself***.  
+
+noun: *I*  
+reflexive pronoun: ***myself***    
+verb: **made**  (make en pasado)
+
+
+Our *cat* **washes** ***itself*** after each meal.  
+
+noun: *cat*  
+reflexive pronoun: ***itself***  
+verb: **washes** (wash para tersera persona)  
+
+### Possessive Adjective
+Muestran poseción, aparece **antes** que el sustantivo (**noun**): **my**, **your**, **her**, **his**, **our**, **their**.
+
+This is **my** **book**.  
+It is **your** **book**.
+
+
+### Possessive Pronoun
+Muestran poseción, aparece **solo**, **sin** un sustantivo (*noun*) despúes de él: **mine**, **yours**, **hers**, **his**, **ours**, **theirs**.
+
+This *book* is **mine**.  
+It is **yours**.
 
 
 ### Interrogative Pronouns
 
-Se usan en pregnuntas para indicar el sustantivo (**noun**) sobre el cual se pregunta.
+Se usan en pregnuntas para indicar el sustantivo (**noun**) sobre el cuál se pregunta.
 
 **Who**:  
 * **Who** is he talking to?  
@@ -199,6 +212,29 @@ Su terminación puede modificar su significado:
     *  A **foolish** act.  
     *  A **famous** pop singer.  
 
+**Comparative form**. Se utiliza para comparar, se le agrega la terminación **-er**:
+
+small - small**er**  
+fast - fast**er**  
+old - old**er**
+
+**Superlative form**. Se utiliza para comparar mas de dos cosas, la mayoría tiene terminación **-est**:
+
+dark - dark**er** - dark**est**  
+flat - flatt**er** flatt**est**  
+long - long**er** - long**est**
+
+* Adjetivos de una sola sílaba, terminan en consonante, una sola vocal antes de la última letra, se duplica la última letra:
+
+big - bi**gger** - bi**ggest**  
+sad - sa**dder** - ssa**ddest**
+
+* Adjetivos de dos sílabas con terminación en **y**:
+
+busy - bus**ier** - bus**iest**  
+happy - happ**ier** - happ**iest**  
+dirty - dirt**ier** - dirt**iest**  
+
 
 ### Determiners
 
@@ -253,15 +289,33 @@ Un verbo en infinitivo **no está conjugado**, por lo general lo precede la pala
 
 Las otras cuatro formas de un verbo son:
 
-* **Third person singular** form. Se usa en frases afirmativas que involucran **she**, **he**, **it**, **one**. A los *verbos regulares* se les agrega **-s** o **-es**.
+* **Third person singular form**. Se usa en frases afirmativas que involucran **she**, **he**, **it**. A los *verbos regulares* se les agrega **-s** o **-es**.  
+    * Regulares **-s** (usualmente):  
+    read - read**s**  
+    shrink - shrink**s**  
+    dream - dream**s**  
 
-    she read**s**  
-    he watch**es**  
-    it shrink**s**  
-    one do**es**  
+    * Regulares **-s** (si terminan en **vocal+y**):  
+    pay - pay**s**  
+    buy - buy**s**  
+
+    * Regulares **-es** (si terminan en **-sh**, **-ch**, **-ss**, **-x**):  
+    push - push**es**  
+    watch - watch**es**  
+    kiss - kiss**es**  
+    fix - fix**es**  
+
+    * Regulares **-es** (si terminan en **consonante + y**:  
+    cry - cr**ies**  
+    study - stud**ies**  
+
+    *Irregulares:
+    have - **has**  
+    go - **goes**  
+    do - **does**  
 
 
-* **Present Participle** form. Se usa en frases conjugadas en pasado, presente y futuro progresivo. A los verbos regulares se les agrega **-ing**.
+* **Present Participle form**. Se usa en frases conjugadas en pasado, presente y futuro progresivos. A los verbos regulares se les agrega **-ing**.
 
     come - com**ing**  
     draw - draw**ing**  
@@ -274,9 +328,9 @@ Las otras cuatro formas de un verbo son:
     swim - swi**mm**ing  
 
 
-* **Past** form and **Past participle** form. Se usa en frases conjugadas en pasado. A los verbos regulares se les agrega **-ed**.
+* **Past form** and **Past participle form**. Se usa en frases conjugadas en pasado. A los verbos regulares se les agrega **-ed**.
 
-    pull - pull**ed**
+    pull - pull**ed**  
     stack - stack**ed**  
     play - play**ed**
 
@@ -300,7 +354,7 @@ Las otras cuatro formas de un verbo son:
 
 ### Irregular verbs
 
-Los verbos irregulares no respetan las reglas para su **Past form** and **Past participle form**:
+Los verbos irregulares no respetan las reglas para su **Past form** y **Past participle form**:
 
 | Simple Form | Past Form | Past Participle Form |    
 |-----------|-------|-------|  
@@ -350,7 +404,7 @@ Se pueden dividir en:
 
 ## Prepositions
 
-Son palabras que realcionan una cosa con otra, indicando su ubicación relativa en el **espacio** o **tiempo**: **in**, **into**, **off**, **until**, **before**, etc.
+Son palabras que realcionan una cosa con otra, por lo general son seguidas por un sustantivo (*noun*) o pronombre (*pronoun*), indican su ubicación relativa en el **espacio** o **tiempo**: **in**, **into**, **off**, **until**, **before**, etc.
 
 * There is a long mirror **on** the wall.
 

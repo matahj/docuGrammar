@@ -6,37 +6,37 @@ sidebar_position: 2
 
 ## Simple Present
 
-El verbo ser o estar (**to be**) en presente simple tiene las siguientes formas simples (**Simple Form**):
+En presente simple, el verbo ser o estar (**to be**) tiene las siguientes formas simples (**Simple Form**):
 
-* **am** para el pronombre **I**.  
+* **am** para **I**.  
     I **am** Peter.  
     I **am** at home.  
 
-* **are** para el pronombre **you**.  
+* **are** para **you**.  
     You **are** a stranger.  
     **are** you at home?
 
-* **is** para los pronombres **he**, **she**, **it**.  
+* **is** para **he**, **she**, **it**.  
     He **is**  on the beach.  
     She **is** a doctor.  
     It **is** not a horse.  
 
-    * Para singulares.  
+    * **is** para singulares.  
     The playground **is** full of people today.  
 
-    * Con **there** para cosas en singular que se pueden ver o tocar.  
+    * **is** con **there** para cosas en singular que se pueden ver o tocar.  
     There **is** a castle on the hill.  
     
 
-* **are** para los pronombres **you**, **we**, **they**.  
+* **are** para **you**, **we**, **they**.  
     **Are** you at a party? (¿ustedes están en una fiesta?)  
     We **are** in the same class.  
     They **are** not enemies.  
 
-    * Para plurales.  
+    * **are** para plurales.  
     These questions **are** too difficult.  
 
-    * Con **there** para cosas en plural que se pueden ver o tocar  
+    * **are** con **there** para cosas en plural que se pueden ver o tocar  
     There **are** two guards at the gate.  
     
 
@@ -70,6 +70,17 @@ El verbo ser o estar (**to be**) en presente simple tiene las siguientes formas 
 | they are not  | **they aren't** (not in questions) |
 
 
+### Sentence Structures
+
+(**+**) Subject + To be Simple Form + Complement. 
+
+(**-**) Subject + To be Negative Form + Complement.  
+
+(**?**) To be Simple Form + Subject + Complement?  
+
+
 
 ## Simple Past
+
+
 

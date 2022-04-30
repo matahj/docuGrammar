@@ -2,18 +2,18 @@
 sidebar_position: 3
 ---
 
-
 # Present
+
 
 ## Simple Present
 
-Las sentencias **positivas** en presente simple utilizan el verbo en su forma simple (**Simple Form**) para expresar:  
+(**+**) **Positive sentences**. Utilizan el verbo en su forma simple (**Simple Form**) para expresar:  
 
-* **Hechos**.  
+* **Hechos (facts)**.  
     The sun **rises** in the east. ("to rise" para tercera persona en singular rise**s**)  
     Cows **eat** grass. ("to eat")
 
-* **Costumbres**.  
+* **Habitos/rutinas/costumbres**.  
     We always **wash** our hands before meals. ("to wash")  
     It often **snows** in winter. ("to snow" para tercera persona en singular snow**s**)  
     Dad **does** the dishes. ("to do" para tercera persona en singular **does**)  
@@ -24,7 +24,7 @@ Las sentencias **positivas** en presente simple utilizan el verbo en su forma si
     Ana **starts** school tomorrow. ("to start" para tercera persona en singular start**s**)
 
 
-Las sentencias negativas e interrogativas además del verbo en su forma simple utilizan el verbo "**do**" (hacer) como auxiliar (**do not** y **do** para el singular de la tercera persona, **does not** y **does** en otro caso).
+(**-**)(**?**) **Negative** and **Interrogative** sentences. Además del verbo en su forma simple utilizan el auxiliar "**do**": **do not**/**do** para el singular de la tercera persona, **does not**/**does** en otro caso:
 
 Cats **don't** **like** water. (**don't** - **do not**)  
 Roberto **doesn't** **want** to go to school. (**doesn't** - **does not**)  
@@ -45,7 +45,7 @@ Roberto **doesn't** **want** to go to school. (**doesn't** - **does not**)
 
 
 **Notas**: Para **she**, **he**, **it** (tercera persona en singular):  
-* En (**+**) el verbo en SF termina con **-s**.  
+* En (**+**) el verbo en SF termina con **-s**/**-es**/**ies**.  
 * En (**-**) se utiliza **doesn't** = does not.  
 * En (**?**) se utiliza **Does**.  
 
@@ -54,20 +54,20 @@ Roberto **doesn't** **want** to go to school. (**doesn't** - **does not**)
 
 El **presente progresivo** o **continuo** utiliza el verbo en su forma simple con terminación **-ing** (**present participle form**), con el auxiliar "*to be*" en su forma simple (*am*, *is*, *are*) para expresar:
 
-* Acciones largas que se están desarrollan en la actualidad.  
+* **Acciones largas** que se están desarrollan en la actualidad.  
     Rosa *is* **knitting** a sweater for Sally.   (knit - knitt**ing**)  
     They *are* **practicing** tai-chi. (practice - practic**ing**)
 
-* Acciones que están ocurriendo ahora mismo.  
+* **Acciones que están ocurriendo** ahora mismo.  
     They *are* **swimming** in the sea. (swim - swimm**ing**)  
     The phone *is* **ringing**. (ring - ring**ing**)
 
-* Para hablar de cosas que se tiene planeado hacer.  
+* Para hablar de cosas que **se tiene planeado hacer**.  
     I*'m* **starting** piano lessons soon.  (start - start**ing**)  
     What *are* we **eating** for dinner? (eat - eat**ing**)
 
 
-* Para hablar de hechos que pasarán en el futuro.  
+* Para hablar de **hechos que pasarán** en el futuro. 
     My favorite TV programm *is* **starting** in a minute. (start - start**ing**)  
     We *are* **going** camping tomorrow. (go - go**ing**)
 
@@ -83,7 +83,7 @@ El **presente progresivo** o **continuo** utiliza el verbo en su forma simple co
 
 ## Perfect Present
 
-El presente perfecto utiliza el verbo auxiliar **has**/**have** (tener o poseer) con denotación "haber hecho u haber ocurrido" y el verbo en pasado participio (**Past Participle**) para hablar de sucesos del pasado que explican o afectan el presente.
+El presente perfecto utiliza el verbo auxiliar **has**/**have** (tener | poseer | hacer | obtener) con denotación "haber hecho u haber ocurrido" y el verbo en pasado participio (**Past Participle**) para hablar de sucesos del pasado que explican o afectan el presente.
 
 I**'ve** just **finished** my shower. (I**'ve** - I **have**, finish - finidh**ed**)    
 Acabo de terminar mi ducha.  
