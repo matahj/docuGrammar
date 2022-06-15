@@ -151,3 +151,10 @@ Se utiliza **has**
 ## Perfect Progressive Present
 
 ### Sentence Structures
+
+(**+**) Subject + has/have been + Verb-ing + Complement.
+
+(**-**) Subject + hasn't/haven't been + Verb-ing + Complement.
+
+(**?**) Has/Have + Subject been + Verb-ing + Complement ?  
+

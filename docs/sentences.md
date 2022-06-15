@@ -11,7 +11,7 @@ Una sentencia u oración es un grupo de palabras que expresan una idea, siempre 
 
 Sally || is reading || a book.
 
-Janet and Sally || are fighting.
+Janet and Sally || are fighting || .
 
 
 ## Subject, Verb and Object.
@@ -20,7 +20,7 @@ El **sujeto** es el que desarrolla la acción descrita por el **verbo** y el **o
 
 **subject** || **verb** || **object**
 
-Hannah || is reading || her book.
+Hannah || hates || bananas.
 
 I || am writing || a story.
 
@@ -32,7 +32,7 @@ Es posible que una oración tenga dos objetos, el indirecto y el directo:
 
 * **Diect object**. Recibe la acción del verbo.  
 
-**subject** || **verb** || **indirect object** || **direct object**
+**subject** || **verb** || **indirect object** || **direct object**  
 
 Andrew || is showing || us || his stamps.
 
@@ -50,6 +50,7 @@ Hay cuatro tipos de oraciones:
 * **Interrogative sentence**. Una oración interrogativa hace una pregunta.
 
     Is Anna in your class?  
+    
     What is your name?  
 
 * **Exclamatory sentence**. Una oración exclamatoria expresa una emoción fuerte.
@@ -60,26 +61,31 @@ Hay cuatro tipos de oraciones:
 
     Please sit down.
 
-Además pueden ser positivas o negativas:
+Además pueden ser positivas, negativas o interrogativas:
 
-* **Positive sentence**. Una oración positiva indica que algo es como es, afirmativo o positivo.
+* **(+) Positive sentence**. Una oración positiva indica que algo es como es, afirmativo o positivo.
 
     The house is empty.
 
-* **Negative sentence**. Una oración negativa indica que algo no es verdadero o que es negativo. Contiene una palabra negativa como: **not**, **never**, **no**, **no one**, **nobody**, **none** o un verbo negativo como **isn't**, **can't** o **won't**.
+* **(-) Negative sentence**. Una oración negativa expresa algo de manera negtiva. Contiene una palabra negativa como: **not**, **never**, **no**, **no one**, **nobody**, **none** o un verbo negativo como **isn't**, **can't** o **won't**.
 
     There is **no one** in the house.
 
-En particular hay dos tipos de preguntas:
+* **(?) Interrogative sentence**. Las hay de dos tipos:
 
-* **Yes or not questions**. Son preguntas cuya respuesta es **sí** o **no**.
+    * **Yes or Not questions**. Son preguntas cuya respuesta es **sí** o **no**.  
+
+    Can you swim?  
+    **R:** Yes, I can.  
 
     Is it raining?  
-    Can you swim?  
+    **R:** No, it's not raining.  
 
-* **Wh- questions**. Son preguntas que requieren de una respuesta elaborada. Incluyen las palabras **what** (qué), **which** (cuál), **who** (quién), **whom** (quién), **how** (cómo), **when** (cuándo), **where** (dónde).
+    * **WH questions**. Son preguntas que requieren de una respuesta elaborada. Incluyen las palabras **what** (qué), **which** (cuál), **who** (quién), **whom** (quién), **how** (cómo), **when** (cuándo), **where** (dónde).
 
     **what** would you like for diner?  
+
     **which** color do you prefer?  
+
     **who** told you that?  
 

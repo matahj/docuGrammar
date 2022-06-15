@@ -60,14 +60,23 @@ En presente simple, el verbo ser o estar (**to be**) tiene las siguientes formas
 
 |           | Negative |
 |-----------|----------|
-| am I not?     | **aren't I** (only in questions)  |
-| you are not   | **you aren't** (not in questions)  |
-| he is not     | **he isn't** (not in questions)    |
-| she is not    | **she isn't** (not in questions)   |
-| it is not     | **it isn't** (not in questions)    |
-| we are not    | **we aren't** (not in questions)   |
-| you are not   | **you aren't** (not in questions)  |
-| they are not  | **they aren't** (not in questions) |
+| I am not      | **I'm not**   |
+| you are not   | **you aren't** |
+| he is not     | **he isn't** |
+| she is not    | **she isn't** |
+| it is not     | **it isn't** |
+| we are not    | **we aren't** |
+| you are not   | **you aren't** |
+| they are not  | **they aren't** |
+
+
+### Interrogative Form and Contractions
+
+|           | Interrogative |
+|-----------|---------------|
+| am I not? | **aren't I?**  |
+
+I'm taller than you, aren't?
 
 
 ### Sentence Structures
@@ -82,5 +91,53 @@ En presente simple, el verbo ser o estar (**to be**) tiene las siguientes formas
 
 ## Simple Past
 
+En pasado simple, el verbo ser o estar (**to be**) tiene las siguientes formas simples (**Simple Form**):
 
+* **was** para **I**.  
+    I **was** a taxi driver.  
+    I **was** in the garden.  
+
+* **were** para **you**.  
+    You **were** rude.  
+    **Were** you at school?
+
+* **was** para **he**, **she**, **it**.  
+    Edison **was** a famous inventor.  
+    Sue **was** at the library this morning.  
+    It **was** a fancy car.  
+
+    * **was** para singulares.  
+    The cinema **was** full of people.  
+
+    <!-- * **was** con **there** para cosas en singular que se pueden ver o tocar.  
+    There **was** a castle on the hill.   -->
+    
+
+* **were** para **you**, **we**, **they**.  
+    **Were** you at a party? (¿ustedes estaban en una fiesta?)  
+    We **were** in the same school.  
+    They **were** not friends.  
+
+    * **were** para plurales.  
+    Those questions **were** very difficult.  
+
+    <!-- * **were** con **there** para cosas en plural que se pueden ver o tocar  
+    There **were** two guards at the gate.   -->
+
+
+### Negative Form and Contractions
+
+|           | Negative |
+|-----------|----------|
+| was not   | **wasn't**  |
+| were not  | **weren't** |
+
+
+### Sentence Structures
+
+(**+**) Subject + was/were + Complement. 
+
+(**-**) Subject + wasn't/weren't + Complement.  
+
+(**?**) Was/Were + Subject + Complement?  
 

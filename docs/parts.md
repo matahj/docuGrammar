@@ -53,12 +53,12 @@ Los pronombres **pueden sustituir** a los sustantivos o nombres (**nouns**) en u
 * Second person plural (ustedes): **you**.
 * Third person plural (ellos, ellas, esos): **they**.
 
-Pueden sustituir al *sujeto*, el sustantivo (***noun***) que desarrolla la acción del **verbo**:
+Pueden sustituir al **sujeto**, el sustantivo (**noun**) que desarrolla la acción del **verbo**:
 
 This is *my sister*. ***She*** **is** a programmer.
 
-noun: *my sister*  
-personal pronoun: ***she***  
+subject: *my sister*  
+subject pronoun: ***she***  
 verb: **is**  
 
 
@@ -73,18 +73,18 @@ verb: **is**
 * Second person plural: **you**.
 * Third person plural: **them**.
 
-Puede sustituir al *objeto*, el sustantivo (***noun***) que recibe la acción del **verbo**:
+Puede sustituir al **objeto**, el sustantivo (**noun**) que recibe la acción del **verbo**:
 
 *Pedro*, I **told** ***you*** to tidy your bed!
 
-noun: *Pedro*  
+object: *Pedro*  
 object pronoun: ***you***  
 verb: **told** (pasado de tell)  
   
 
 Pick up *your toys* and **put** ***them*** **away**.
   
-noun: *your toys*  
+object: *your toys*  
 object pronoun: ***them***  
 verb: **put away**  (phrasal verb)
 
@@ -100,7 +100,7 @@ verb: **put away**  (phrasal verb)
 * Third person plural (they - them): **themselves**.
 
 
-Se usa para indicar que el *sujeto* y el *objeto* del **verbo** son el mismo; cuando el sustantivo (***noun***) desarrolla y recibe la acción; cuando se refiere a sí mismo:
+Se usa para indicar que el **sujeto** y el **objeto** del **verbo** son el mismo; cuando el sustantivo (***noun***) desarrolla y recibe la acción; cuando se refiere a sí mismo:
 
 *I* **made** this cake ***myself***.  
 
@@ -116,14 +116,14 @@ reflexive pronoun: ***itself***
 verb: **washes** (wash para tersera persona)  
 
 ### Possessive Adjective
-Muestran poseción, aparece **antes** que el sustantivo (**noun**): **my**, **your**, **her**, **his**, **our**, **their**.
+Muestran que algo (**noun**) es poseción de alguien (**pronoun**), aparece **antes** que el sustantivo (**noun**): **my**, **your**, **her**, **his**, **our**, **their**.
 
 This is **my** **book**.  
 It is **your** **book**.
 
 
 ### Possessive Pronoun
-Muestran poseción, aparece **solo**, **sin** un sustantivo (*noun*) despúes de él: **mine**, **yours**, **hers**, **his**, **ours**, **theirs**.
+Muestran que alguien (**pronoun**) posee algo (**noun**), aparece **solo**, **sin** un sustantivo (**noun**) despúes de él: **mine**, **yours**, **hers**, **his**, **ours**, **theirs**.
 
 This *book* is **mine**.  
 It is **yours**.
@@ -212,7 +212,7 @@ Su terminación puede modificar su significado:
     *  A **foolish** act.  
     *  A **famous** pop singer.  
 
-**Comparative form**. Se utiliza para comparar, se le agrega la terminación **-er**:
+**Comparative form**. Se utiliza para comparar dos cosas, se le agrega la terminación **-er**:
 
 small - small**er**  
 fast - fast**er**  
@@ -224,12 +224,12 @@ dark - dark**er** - dark**est**
 flat - flatt**er** flatt**est**  
 long - long**er** - long**est**
 
-* Adjetivos de una sola sílaba, terminan en consonante, una sola vocal antes de la última letra, se duplica la última letra:
+En los adgetivos comparativos y superlativos, si son de una sola sílaba, terminan en consonante y con una sola vocal antes de la última letra, se duplica la última letra:
 
 big - bi**gger** - bi**ggest**  
 sad - sa**dder** - ssa**ddest**
 
-* Adjetivos de dos sílabas con terminación en **y**:
+Y si son adjetivos de dos sílabas con terminación en **y**:
 
 busy - bus**ier** - bus**iest**  
 happy - happ**ier** - happ**iest**  
@@ -289,33 +289,33 @@ Un verbo en infinitivo **no está conjugado**, por lo general lo precede la pala
 
 Las otras cuatro formas de un verbo son:
 
-* **Third person singular form**. Se usa en frases afirmativas que involucran **she**, **he**, **it**. A los *verbos regulares* se les agrega **-s** o **-es**.  
-    * Regulares **-s** (usualmente):  
+* **Third Person Singular Form**. Se usa en frases afirmativas que involucran **she**, **he**, **it**. A los *verbos regulares* se les agrega **-s** o **-es**.  
+    * Regulares, terminación **-s** (usualmente):  
     read - read**s**  
     shrink - shrink**s**  
     dream - dream**s**  
 
-    * Regulares **-s** (si terminan en **vocal+y**):  
+    * Regulares, terminación **-s** (si terminan en **vocal+y**):  
     pay - pay**s**  
     buy - buy**s**  
 
-    * Regulares **-es** (si terminan en **-sh**, **-ch**, **-ss**, **-x**):  
+    * Regulares, terminación **-es** (si terminan en **-sh**, **-ch**, **-ss**, **-x**):  
     push - push**es**  
     watch - watch**es**  
     kiss - kiss**es**  
     fix - fix**es**  
 
-    * Regulares **-es** (si terminan en **consonante + y**:  
+    * Regulares, terminación **-es** (si terminan en **consonante + y**:  
     cry - cr**ies**  
     study - stud**ies**  
 
-    *Irregulares:
+    *Irregulares, no respetan las reglas:  
     have - **has**  
     go - **goes**  
     do - **does**  
 
 
-* **Present Participle form**. Se usa en frases conjugadas en pasado, presente y futuro progresivos. A los verbos regulares se les agrega **-ing**.
+* **Present Participle Form**. Se usa en frases conjugadas en pasado, presente y futuro progresivos. A los verbos regulares se les agrega **-ing**.
 
     come - com**ing**  
     draw - draw**ing**  
@@ -328,7 +328,7 @@ Las otras cuatro formas de un verbo son:
     swim - swi**mm**ing  
 
 
-* **Past form** and **Past participle form**. Se usa en frases conjugadas en pasado. A los verbos regulares se les agrega **-ed**.
+* **Past Form** and **Past Participle Form**. Se usa en frases conjugadas en pasado. A los verbos regulares se les agrega **-ed**.
 
     pull - pull**ed**  
     stack - stack**ed**  
@@ -344,7 +344,7 @@ Las otras cuatro formas de un verbo son:
     shop - sho**pp**ed  
     fan - fa**nn**ed  
 
-    Si termina con **y** se cambia **-y** por **-i** antes de agregar **-ed**:
+    Si termina con **y** se cambia **y** por **-i** antes de agregar **-ed**:
 
     carry - carr**ied**  
     fry - fr**ied**  
@@ -354,7 +354,7 @@ Las otras cuatro formas de un verbo son:
 
 ### Irregular verbs
 
-Los verbos irregulares no respetan las reglas para su **Past form** y **Past participle form**:
+Los verbos irregulares no respetan las reglas para su **Past Form** y **Past Participle Form**:
 
 | Simple Form | Past Form | Past Participle Form |    
 |-----------|-------|-------|  
@@ -404,13 +404,13 @@ Se pueden dividir en:
 
 ## Prepositions
 
-Son palabras que realcionan una cosa con otra, por lo general son seguidas por un sustantivo (*noun*) o pronombre (*pronoun*), indican su ubicación relativa en el **espacio** o **tiempo**: **in**, **into**, **off**, **until**, **before**, etc.
+Son palabras que realcionan una cosa con otra, por lo general son **seguidas** por un sustantivo (*noun*) o pronombre (*pronoun*), indican su ubicación relativa en el **espacio** o **tiempo**: **in**, **into**, **off**, **until**, **before**, etc.
 
-* There is a long mirror **on** the wall.
+* There is a long mirror **on** *the wall*.
 
-* The school is **near** the park.
+* The school is **near** *the park*.
 
-* The trees lose their leaves **durng** winter.
+* The trees lose their leaves **durng** *winter*.
 
 
 ## Conjunctions
@@ -432,7 +432,7 @@ O que indican cuándo sucede algo (**Conjunctions of time**): **before**, **afte
 
 ## Interjections
 
-Palabras que expresan uan repentina sorpresa, dolor o placer, se acompañan de un signo de exclamación.
+Palabras que expresan una repentina sorpresa, dolor o placer, se acompañan de un signo de exclamación.
 
 * **Cheers**!
 
@@ -440,4 +440,4 @@ Palabras que expresan uan repentina sorpresa, dolor o placer, se acompañan de u
 
 * **Happy Birthday**!
 
-
+* **Congratulations!**
